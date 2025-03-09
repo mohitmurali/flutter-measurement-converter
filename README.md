@@ -1,10 +1,13 @@
-# kg_to_pounds_converter
+# Measurement Converter
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+clone the repository and run the app using vscode. 
+Also install Android studio and open mobile emulator and you should see the app running there.
 
 A few resources to get you started if this is your first Flutter project:
 
